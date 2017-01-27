@@ -1,0 +1,15 @@
+push 76
+store 3
+push 88
+out
+push 6
+push 9
+store 5
+push 3
+add
+push 13
+
+
+
+
+
